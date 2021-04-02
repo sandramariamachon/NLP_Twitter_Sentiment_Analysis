@@ -1,6 +1,6 @@
 # _How's 2021 going? Twitter Sentiment Analysis (NLP)_
 
-#### An NLP Data Science project to find out how people feel about 2021.Click [here](https://breakdance.github.io/breakdance/) for article
+#### An NLP Data Science project to find out how people feel about 2021.Click [here](link) for article
 This project used Natural Language Processing (NLP) techniques to analyse users' sentiment towards 2021.
 
 The tools used include ***Tweepy*** (for mining tweets), ***Pandas*** (for data cleaning/wrangling), ***Tweet Preprocessor*** (for rapid tweet cleaning), ***NLTK*** (for tokenization, stopwords removal and POS tagging), ***Plotly***, ***Matplotlib*** and ***Word Cloud*** (for visualization).
@@ -30,7 +30,8 @@ With this project we learnt the following insights:
 
 ## Links
 
-- Medium Article
+- [Medium Article](link)
 - [LinkedIn](https://www.linkedin.com/in/sandra-machon/)
+- [Portfolio]()
 
 
