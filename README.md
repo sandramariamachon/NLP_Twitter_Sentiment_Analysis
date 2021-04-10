@@ -28,6 +28,8 @@ With this project we learnt the following insights:
 ![Most_Used_Words](https://user-images.githubusercontent.com/55002027/114279849-86763900-9a2e-11eb-8dd2-796c3d327afe.png)
 
 - The majority of tweets had a positive sentiment (19,107), followed by neutral (9,484) and negative (8,436) sentiment 
+<iframe src="https://datapane.com/u/machonsm/reports/my-plot/embed/" width="100%" height="540px" frameBorder="0">Iframe not supported.</iframe>
+
 - The most common word in positive tweets was "good", word "last" in negative tweets and "new" in neutral
 - The most popular tweet was retweeted 9199 times and the most liked tweet received 25683 likes!
 
