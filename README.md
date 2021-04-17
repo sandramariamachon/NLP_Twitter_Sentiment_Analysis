@@ -34,7 +34,7 @@ With this project we learnt the following insights:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55002027/114280902-58dfbe80-9a33-11eb-90fc-2bd322151395.PNG" />
 </p>
-<a href="https://datapane.com/u/machonsm/reports/sun-burst"</a>
+<iframe width="100%" height="475" src="https://datapane.com/u/machonsm/reports/sun-burst/embed/" frameborder="0"></iframe>
 - The most popular tweet was retweeted 9199 times and the most liked tweet received 25683 likes!
 
 ## Links
