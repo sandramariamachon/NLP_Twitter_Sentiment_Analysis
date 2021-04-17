@@ -26,15 +26,15 @@ In this repository you'll find:
 ## Main Findings
 
 With this project we learnt the following insights:
-### 1) "Good", "Best, "Happy", "Great" and "Bad" are the top 5 words used to describe 2021 
+### 1) "Good", "Best, "Happy", "Great" and "Bad" are the top 5 words used to describe 2021 ###
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55002027/114279849-86763900-9a2e-11eb-8dd2-796c3d327afe.png" />
 </p>
-#### The Word Cloud below presents the most frequently used adjectives accross all tweets: 
+#### The Word Cloud below presents the most frequently used adjectives accross all tweets: ###
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55002027/114281049-14a0ee00-9a34-11eb-8992-68fe771b3e76.png" />
 </p>
-### 2) The majority of tweets had a positive sentiment (19,107), followed by neutral (9,484) and negative (8,436) sentiment
+### 2) The majority of tweets had a positive sentiment (19,107), followed by neutral (9,484) and negative (8,436) sentiment ###
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55002027/114280849-2635c600-9a33-11eb-8610-128449948d19.PNG" />
 </p>
