@@ -31,6 +31,9 @@ With this project we learnt the following insights:
 ![Sentiment_Plot](https://datapane.com/u/machonsm/reports/my-plot)
 
 - The most common word in positive tweets was "good", word "last" in negative tweets and "new" in neutral
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55002027/114280902-58dfbe80-9a33-11eb-90fc-2bd322151395.PNG" />
+</p>
 - The most popular tweet was retweeted 9199 times and the most liked tweet received 25683 likes!
 
 ## Links
