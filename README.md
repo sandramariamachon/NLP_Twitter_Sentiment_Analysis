@@ -1,7 +1,7 @@
 # _How's 2021 going? Twitter Sentiment Analysis (NLP)_
 
-#### An NLP Data Science project to find out how people feel about 2021. Click [here](link) for article
-This project used Natural Language Processing (NLP) techniques to analyse users' sentiment towards 2021. After 2020 turned out to be a disaster, we've all been looking forward to 2021 with hope. I decided to perform a Twitter Sentiment Analysis to find out if the new year is treating us well! I scraped 37,621 tweets using the following search quiaries:
+#### An NLP Data Science project to find out how people feel about 2021. Click [here](link) for the article
+This project used Natural Language Processing (NLP) techniques to analyse users' sentiment towards 2021. After 2020 turned out to be a disaster, we've all been looking forward to 2021 with hope. I decided to perform a Twitter Sentiment Analysis to find out if the new year is treating us well! I scraped 37,621 tweets using the following search queries:
 - "2021 is"
 - "2021 will"
 - "This year"
@@ -11,7 +11,7 @@ The tools used include ***Tweepy*** (for mining tweets), ***Pandas*** (for data 
 With this project I wanted to get familiar with the Natural Language Processing (NLP) techniques and answer the following questions:
 
 - ***What are the most common words people use to describe 2021?***
-- ***What is the number of tweets with the positive, negative and neutral sentiment?***
+- ***What is the number of tweets with positive, negative and neutral sentiment?***
 - ***What are the most common words used in positive, neutral and negative tweets?***
 - ***What are the most liked and retweeted posts?***
 
