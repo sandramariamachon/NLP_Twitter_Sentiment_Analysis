@@ -1,7 +1,10 @@
 # _How's 2021 going? Twitter Sentiment Analysis (NLP)_
 
 #### An NLP Data Science project to find out how people feel about 2021.Click [here](link) for article
-This project used Natural Language Processing (NLP) techniques to analyse users' sentiment towards 2021. After 2020 turned out to be a disaster, we've all been looking forward to 2021 with hope. I decided to perform a Twitter Sentiment Analysis to find out if the new year is treating us well!
+This project used Natural Language Processing (NLP) techniques to analyse users' sentiment towards 2021. After 2020 turned out to be a disaster, we've all been looking forward to 2021 with hope. I decided to perform a Twitter Sentiment Analysis to find out if the new year is treating us well! I scraped 37,621 tweets using the following search quiaries:
+- "2021 is"
+- "2021 will"
+- "This year"
 
 The tools used include ***Tweepy*** (for mining tweets), ***Pandas*** (for data cleaning/wrangling), ***Tweet Preprocessor*** (for rapid tweet cleaning), ***NLTK*** (for tokenization, stopwords removal and POS tagging), ***Plotly***, ***Matplotlib*** and ***Word Cloud*** (for visualization).
 
@@ -26,8 +29,10 @@ With this project we learnt the following insights:
 ### 1) "Good", "Best, "Happy", "Great" and "Bad" are the top 5 words used to describe 2021 
 ![Most_Used_Words](https://user-images.githubusercontent.com/55002027/114279849-86763900-9a2e-11eb-8dd2-796c3d327afe.png)
 
-
-![Word_Cloud](https://user-images.githubusercontent.com/55002027/114281049-14a0ee00-9a34-11eb-8992-68fe771b3e76.png)
+#### The Word Cloud below presents the most frequently used adjectives accross all tweets: 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/55002027/114281049-14a0ee00-9a34-11eb-8992-68fe771b3e76.png" />
+</p>
 ### 2) The majority of tweets had a positive sentiment (19,107), followed by neutral (9,484) and negative (8,436) sentiment
 ![Sentiment_graph](https://user-images.githubusercontent.com/55002027/114280849-2635c600-9a33-11eb-8610-128449948d19.PNG)
 ### 3)The most common word in positive tweets was "good", word "last" in negative tweets and "new" in neutral
@@ -47,5 +52,7 @@ Click [here](https://datapane.com/u/machonsm/reports/sun-burst/embed/) for an in
 - [Medium Article](link)
 - [LinkedIn](https://www.linkedin.com/in/sandra-machon/)
 - [Portfolio]()
+
+
 
 
