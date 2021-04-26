@@ -1,6 +1,6 @@
 # _How's 2021 going? Twitter Sentiment Analysis (NLP)_
 
-#### An NLP Data Science project to find out how people feel about 2021. Click [here](link) for the article
+#### An NLP Data Science project to find out how people feel about 2021. Click [here](https://sandra-maria-machon.medium.com/hows-2021-going-twitter-sentiment-analysis-nlp-e62e4e8f3767) for the article
 This project used Natural Language Processing (NLP) techniques to analyse users' sentiment towards 2021. After 2020 turned out to be a disaster, we've all been looking forward to 2021 with hope. I decided to perform a Twitter Sentiment Analysis to find out if the new year is treating us well! I scraped 37,621 tweets using the following search queries:
 - "2021 is"
 - "2021 will"
@@ -67,8 +67,8 @@ Click [here](https://datapane.com/u/machonsm/reports/my-plot2/embed/) for an int
 
 ## Links
 
-- [Medium Article](link)
+- [Medium Article](https://sandra-maria-machon.medium.com/hows-2021-going-twitter-sentiment-analysis-nlp-e62e4e8f3767)
 - [LinkedIn](https://www.linkedin.com/in/sandra-machon/)
-- [Portfolio]()
+- [Portfolio](https://www.sandramachon.com/)
 
 
